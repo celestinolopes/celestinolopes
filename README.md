@@ -1,9 +1,11 @@
 ### Hi there 👋, I'm Celestino Lopes (CL) :blush:
- </hr>
- ### About me :
+ 
+### About me :
  
  - Country: Angola
+ 
  - Ocupation: Developer
+ 
  - Skills: Javascript | C# | PHP | Dart & Flutter 
  
 <!--
@@ -23,7 +25,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on Mobile and Web Apps
-- 🌱 I’m currently learning Dart & Flutter :sunglasses
+- :blue_book: I’m currently learning Dart & Flutter :sunglasses
 - 👯 I’m looking to collaborate on creative ideas
 - 💬 Ask me about series, filme and games
 - 📫 How to reach me: celestino.lopes@muzoltek.com
