@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about series, filme and games
 - 📫 How to reach me: celestino.lopes@muzoltek.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I'm not Software Enginner , I'm Managment
+- ⚡ Fun fact: I'm not Software Enginner , I'm  manager
+
