@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on creative ideas
 - 💬 Ask me about series, filme and games
 - 📫 How to reach me: celestino.lopes@muzoltek.com
-- ⚡ Fun fact: I'm not Software Enginner , I'm  manager
+
 
