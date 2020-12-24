@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Celestino Lopes (CL) :blush:
+### Hi there 👋, I'm Celestino Lopes
  
 ### About me :
  
