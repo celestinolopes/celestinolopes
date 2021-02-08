@@ -1,12 +1,9 @@
 ### Hi there 👋, I'm Celestino Lopes
  
 ### About me :
- 
- - Country: Angola
- 
- - Ocupation: Developer
- 
- - Skills: Javascript | C# | PHP | Dart & Flutter 
+
+  - Ocupation: Developer
+  - Skills: Javascript | C# | PHP | Dart & Flutter 
  
 <!--
 **celestinolopes/celestinolopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
