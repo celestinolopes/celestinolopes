@@ -1,12 +1,7 @@
 ### Hi there 👋, I'm Celestino Lopes
 
    ![Celestino Lopes github stats](https://github-readme-stats.vercel.app/api?username=celestinolopes)
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestinolopes)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### About me :
-
+ 
   - Ocupation: Developer
   - Skills: Javascript | C# | PHP | Dart & Flutter 
  
