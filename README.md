@@ -1,5 +1,10 @@
 ### Hi there 👋, I'm Celestino Lopes
- 
+
+   ![Celestino Lopes github stats](https://github-readme-stats.vercel.app/api?username=celestinolopes)
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestinolopes)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### About me :
 
   - Ocupation: Developer
@@ -19,7 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm not Software Enginner , I'm Managment
 -->
-  ![Celestino Lopes github stats](https://github-readme-stats.vercel.app/api?username=celestinolopes)
 
 
 - 🔭 I’m currently working on Mobile and Web Apps
