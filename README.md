@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm not Software Enginner , I'm Managment
 -->
+  ![Celestino Lopes github stats](https://github-readme-stats.vercel.app/api?username=celestinolopes)
 
 
 - 🔭 I’m currently working on Mobile and Web Apps
