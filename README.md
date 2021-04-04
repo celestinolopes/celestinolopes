@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Celestino Lopes   <img src="https://komarev.com/ghpvc/?username=celestinolopes&label=Views&color=a4c639&style=plastic" alt="celestinolopes" />
+### Hi , I'm Celestino Lopes   <img src="https://komarev.com/ghpvc/?username=celestinolopes&label=Views&color=a4c639&style=plastic" alt="celestinolopes" />
 
    ![Celestino Lopes github stats](https://github-readme-stats.vercel.app/api?username=celestinolopes)
    
