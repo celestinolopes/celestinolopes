@@ -3,7 +3,7 @@
    ![Celestino Lopes github stats](https://github-readme-stats.vercel.app/api?username=celestinolopes)
    
   - Ocupation: Developer
-  - Skills: Javascript | C# | PHP | Dart & Flutter 
+  - Skills: Dart & Flutter | Swift | Swift Ui | Typescript | Reactjs | Nextjs | TailwindCss 
  
 <!--
 **celestinolopes/celestinolopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
