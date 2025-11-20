@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - :blue_book: I’m currently learning Dart & Flutter :sunglasses
 - 👯 I’m looking to collaborate on creative ideas
 - 💬 Ask me about series, filme and games
-- 📫 How to reach me: celestino.designerweb@gmail.com
+- 📫 How to reach me: celestino.lopes70@hotmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I don´t drink coffee
 
