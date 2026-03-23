@@ -20,12 +20,53 @@ Here are some ideas to get you started:
 -->
 - Favorite Languages and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,swift,reactjs,tailiwind,ts)](https://skillicons.dev)
+
+### 💙 Dart & Flutter
+
+<img src="https://skillicons.dev/icons?i=dart,flutter" height="60" />
+
+💡 Building cross-platform apps with:
+- Dart fundamentals & clean architecture  
+- Beautiful UI with Flutter widgets  
+- Responsive and adaptive layouts  
+- State management (Provider, Riverpod, etc.)  
+- Smooth animations & performant apps  
 
 
-- 🔭 I’m currently working on Mobile and Web Apps
+
+### 🧡 Swift & SwiftUI
+
+<img src="https://skillicons.dev/icons?i=swift,apple" height="60" />
+
+💡 Building modern iOS apps with:
+- Swift fundamentals & clean architecture  
+- Declarative UI with SwiftUI  
+- Animations & state-driven interfaces  
+
+---
+
+### 📱 Mobile & Frontend
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,ts,react,nextjs,tailwind" height="60" />
+
+---
+
+### 🛠️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,xcode" height="50" />
+
+</p>
+
+---
+
+
+## 🎯 Current Focus
+
+- 🔭 I’m currently working on Mobile with Flutter and Swift Ui
 - :blue_book: I’m currently learning Dart & Flutter :sunglasses
+- 🌍 Building scalable web apps with **React & Next.js**
+- 📱 Creating beautiful apps with **SwiftUI**
 - 👯 I’m looking to collaborate on creative ideas
 - 💬 Ask me about series, filme and games
 - 📫 How to reach me: celestino.lopes70@hotmail.com
