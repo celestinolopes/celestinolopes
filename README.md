@@ -10,7 +10,7 @@
     height="165"
   />
 </p>
-  - Ocupation: Developer
+  - Ocupation: Senior Mobile Developer <br>
   - Skills: Dart & Flutter | Swift | Swift Ui | Typescript | Reactjs | Nextjs | TailwindCss
 
 
