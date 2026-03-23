@@ -3,24 +3,26 @@
    ![Celestino Lopes github stats](https://github-readme-stats.vercel.app/api?username=celestinolopes)
    
   - Ocupation: Developer
-  - Skills: Dart & Flutter | Swift | Swift Ui | Typescript | Reactjs | Nextjs | TailwindCss 
+  - Skills: Dart & Flutter | Swift | Swift Ui | Typescript | Reactjs | Nextjs | TailwindCss
+
+
+  ## Current Focus
+
+- 🔭 I’m currently working on Mobile with Flutter and Swift Ui
+- :blue_book: I’m currently learning Dart & Flutter :sunglasses
+- 🌍 Building scalable web apps with **React & Next.js**
+- 📱 Creating beautiful apps with **SwiftUI**
+- 👯 I’m looking to collaborate on creative ideas
+- 💬 Ask me about series, filme and games
+- 📫 How to reach me: celestino.lopes70@hotmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: I don´t drink coffee
+
+
  
-<!--
-**celestinolopes/celestinolopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Dart & Flutter  
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
--->
 - Favorite Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,swift,reactjs,tailiwind,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,swift,tailiwind,ts)](https://skillicons.dev)
 
 ### 💙 Dart & Flutter
 
@@ -60,18 +62,6 @@ Here are some ideas to get you started:
 
 ---
 
-
-## 🎯 Current Focus
-
-- 🔭 I’m currently working on Mobile with Flutter and Swift Ui
-- :blue_book: I’m currently learning Dart & Flutter :sunglasses
-- 🌍 Building scalable web apps with **React & Next.js**
-- 📱 Creating beautiful apps with **SwiftUI**
-- 👯 I’m looking to collaborate on creative ideas
-- 💬 Ask me about series, filme and games
-- 📫 How to reach me: celestino.lopes70@hotmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I don´t drink coffee
 
 
 
