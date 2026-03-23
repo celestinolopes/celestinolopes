@@ -1,6 +1,6 @@
 ### Hi , I'm Celestino Lopes   <img src="https://komarev.com/ghpvc/?username=celestinolopes&label=Views&color=a4c639&style=plastic" alt="celestinolopes" />
 
-<p align="center">
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=celestinolopes&theme=default&show_icons=true" 
     height="165"
@@ -30,7 +30,7 @@
  
 - Favorite Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,swift,tailiwind,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,swift,ts)](https://skillicons.dev)
 
 ### 💙 Dart & Flutter
 
