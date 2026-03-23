@@ -48,20 +48,10 @@
 
 ---
 
-### 📱 Mobile & Frontend
-
-<img src="https://skillicons.dev/icons?i=dart,flutter,ts,react,nextjs,tailwind" height="60" />
-
----
-
-### 🛠️ Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,xcode" height="50" />
-
+ 
 </p>
 
----
-
+ 
 
 
 
