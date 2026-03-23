@@ -1,7 +1,15 @@
 ### Hi , I'm Celestino Lopes   <img src="https://komarev.com/ghpvc/?username=celestinolopes&label=Views&color=a4c639&style=plastic" alt="celestinolopes" />
 
-   ![Celestino Lopes github stats](https://github-readme-stats.vercel.app/api?username=celestinolopes)
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestinolopes"/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=celestinolopes&theme=default&show_icons=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestinolopes&layout=compact&theme=default" 
+    height="165"
+  />
+</p>
   - Ocupation: Developer
   - Skills: Dart & Flutter | Swift | Swift Ui | Typescript | Reactjs | Nextjs | TailwindCss
 
